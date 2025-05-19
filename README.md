@@ -1,6 +1,6 @@
 # Minority Stress Stimuli, from the project "Working for INclusion. The well-being of sexual minority people: Neurophysiological and Behavioral mechanisms (WIN-NB)"
 These stimuli are part of a multidisciplinary ongoing project involving the University of Trento (P.I. Gianluca Esposito; 1 study) and La Sapienza University (P.I. Roberto Baiocco, Fiorenzo Laghi and Cristina Ottaviani; 2 studies).
-The audio were used in the fNIRS study by University of Trento, conducted by Jacopo Schenetti, Alessandro Carollo and Gianluca Esposito.
+The audio were used in the fNIRS study by University of Trento, conducted by Jacopo Schenetti, Andrea Bizzego, Alessandro Carollo and Gianluca Esposito.
 This repo contains homophobic italian audio stimuli suitable for minority stress studies.
 The voice was created with ElevenLabs and the scripts were partially adapted from transcripts of homophobic youtube videos and partially created from scratch. 
 
